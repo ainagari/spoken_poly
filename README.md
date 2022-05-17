@@ -65,9 +65,10 @@ If you use the code in this repository, please cite our paper:
 
 ### References
 
-Raganato, A., Camacho-Collados, J., and Navigli, R. (2017). [Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison.](https://aclanthology.org/E17-1010.pdf) In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers, pages 99–110,
+* Raganato, A., Camacho-Collados, J., and Navigli, R. (2017). [Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison.](https://aclanthology.org/E17-1010.pdf) In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers, pages 99–110,
 Valencia, Spain, April. Association for Computational Linguistics.
-Barba, E., Pasini, T., and Navigli, R. (2021). [ESC: Redesigning WSD with Extractive Sense Comprehension](https://aclanthology.org/2021.naacl-main.371/). In Proceedings of the 2021 Conference of
+
+* Barba, E., Pasini, T., and Navigli, R. (2021). [ESC: Redesigning WSD with Extractive Sense Comprehension](https://aclanthology.org/2021.naacl-main.371/). In Proceedings of the 2021 Conference of
 the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4661–4672, Online, June. Association for Computational Linguistics
 
 
