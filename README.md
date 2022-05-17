@@ -37,7 +37,7 @@ More information on the arguments:
 * ``--dataset_name``
 * ``--include_adverbs`` if indicated, we include adverbs in the polysemy counts. By default, we do not.
 * ``--sense_type`` can be ``senses``, ``supersenses`` or ``hypernyms``	
-* ``measure`` can be ``mosd``, ``avgsenses``, ``pa`` or ``entropy``. When running ``pa'' (Potential Ambiguity), the output for the measure PCT-POLY is automatically included in the output file.
+* ``measure`` can be ``mosd``, ``avgsenses``, ``pa`` or ``entropy``. When using ``pa`` (Potential Ambiguity), the output for the measure PCT-POLY is automatically included in the output file.
 * ``output_dir`` the name of an existing directory where results will be stored.
 
 To use the code with your own dataset, you should have two files (to be put in ``Data/``):
