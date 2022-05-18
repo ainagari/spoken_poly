@@ -36,11 +36,13 @@ In this repository you can find a simplified version of the original code which 
 More information on the arguments:
 * ``--dataset_name``
 * ``--include_adverbs`` if indicated, we include adverbs in the polysemy counts. By default, we do not.
-* ``--sense_type`` can be ``senses``, ``supersenses`` or ``hypernyms``	
-* ``measure`` can be ``mosd``, ``avgsenses``, ``pa`` or ``entropy``. When using ``pa`` (Potential Ambiguity), the output for the measure PCT-POLY is automatically included in the output file.
-* ``output_dir`` the name of an existing directory where results will be stored.
+* ``--sense_type`` can be _senses_, _supersenses_ or _hypernyms_.	
+* ``--measure`` can be _mosd_, _avgsenses_, _pa_ or _entropy_. When using _pa_ (Potential Ambiguity), the output for the measure PCT-POLY is automatically included in the output file.
+* ``--output_dir`` the name of an existing directory where results will be stored.
 
-To use the code with your own dataset, you should have two files (to be put in ``Data/``):
+The output is printed to a csv file.
+
+To use the code with your own dataset, you should have two files in ``Data/``:
 
 * A file containing WSD annotations (the output of the WSD model). The filename should be ``{DATASETNAME}_predictions.txt`` (where ``{DATASETNAME}`` is the name to be used for the ``--dataset_name`` argument of ``read_wsd_predictions.py``.
 * A file containing the text content in xml format. The filename should be ``{DATASETNAME}.data.xml``.
