@@ -77,4 +77,4 @@ the North American Chapter of the Association for Computational Linguistics: Hum
 
 ### Contact <a name="contact"></a>
 
-Feel free to contact me for any questions or requests: aina dot garisoler at telecom-paris dot fr
+Feel free to [contact me](https://ainagari.github.io/menu/contact.html) for any questions or requests.
