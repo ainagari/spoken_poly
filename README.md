@@ -55,13 +55,33 @@ You will need to modify the function ``load_and_prepare_dataset`` in ``utils.py`
 If you use the code in this repository, please cite our paper:
 
 ```
-@inproceedings{garisoler2022polysemy,
+@inproceedings{gari-soler-etal-2022-polysemy,
     title = {{Polysemy in Spoken Conversations and Written Texts}},
-    author = "Gar{\'\i} Soler, Aina  and Labeau, Matthieu and Clavel, Chlo\'\e}",
-    booktitle = "To appear in Proceedings of the 13th Language Resources and Evaluation Conference (LREC)",    
+    author = "Gar{\'i} Soler, Aina  and
+      Labeau, Matthieu  and
+      Clavel, Chlo{\'e}",
+    editor = "Calzolari, Nicoletta  and
+      B{\'e}chet, Fr{\'e}d{\'e}ric  and
+      Blache, Philippe  and
+      Choukri, Khalid  and
+      Cieri, Christopher  and
+      Declerck, Thierry  and
+      Goggi, Sara  and
+      Isahara, Hitoshi  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Mazo, H{\'e}l{\`e}ne  and
+      Odijk, Jan  and
+      Piperidis, Stelios",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
     year = "2022",
     address = "Marseille, France",
-}   
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.179/",
+    pages = "1680--1690"
+}
+
     
 ```
 
